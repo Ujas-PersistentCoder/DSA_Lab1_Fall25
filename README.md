@@ -1,5 +1,5 @@
 # Lab 1 Solutions - Data Structures and Algorithms (DSA)  
-**Indian Institute of Technology Gandhinagar (IITGN) - Fall Semester**
+**Indian Institute of Technology Gandhinagar (IITGN) - Fall Semester 2025-26**
 
 This repository contains C language solutions to the Lab 1 problems from the DSA course at IITGN. The problems cover permutations, backtracking, and classic algorithmic puzzles such as Sudoku and the Knight's Closed Tour.
 
