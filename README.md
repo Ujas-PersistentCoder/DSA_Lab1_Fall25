@@ -39,7 +39,8 @@ This repository contains C language solutions to the Lab 1 problems from the DSA
    ```bash
    gcc sudoku_solver.c -o sudoku_solver
    ./sudoku_solver
-   
+Note : Take into considerations the constraints assumed in the questions, they might be different for your cases, but still should mostly work fine
+
 Requirements
 GCC or any standard C compiler.
 
