@@ -25,7 +25,7 @@ This repository contains C language solutions to the Lab 1 problems from the DSA
 
 ## Features
 
-- Well-structured and commented C code.  
+- Well-structured and commented C code (used GPT to comment these 😅).  
 - Efficient backtracking implementations for complex puzzles.  
 - Covers important algorithmic techniques including permutations and graph traversal.
 
